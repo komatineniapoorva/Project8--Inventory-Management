@@ -1,4 +1,4 @@
-# Project8--Inventory-Management
+# Project8-Inventory-Management
 I leveraged **PYTHON** to analyze the data and used **TABLEAU** for creating Dashboards and Reporting to draw actionable insights and Recommendations.
 
 **Objective:**
